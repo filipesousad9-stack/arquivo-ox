@@ -1,5 +1,5 @@
 #include <assert.h>
-#include "function_skibidi.c"
+#include "function_tabuleiro.c"
 
 int validar(char c);
 
